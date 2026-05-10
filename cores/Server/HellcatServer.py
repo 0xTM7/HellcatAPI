@@ -756,7 +756,7 @@ class HellcatServer:
                 f"Cannot bind to {self.BindHost}:{self.Port}\n"
                 f"  Requested Host : {self.Host}\n"
                 f"  Resolved to    : {self.BindHost}\n"
-                f"  Tip: Use '0.0.0.0' to listen on all interfaces, or your device's local IP.\n"
+                f"  Tip: Use '0.0.0.0' to listen in all interfaces, or your device's local IP.\n"
                 f"  Cause: {Err}"
             )
 
