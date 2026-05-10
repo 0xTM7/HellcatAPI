@@ -63,7 +63,7 @@ It supports synchronous and asynchronous route handlers, a built-in middleware c
 
 ---
 
-## Installation
+## Installation & Usage
 
 ```bash
 git clone https://github.com/XTM26/HellcatAPI.git
